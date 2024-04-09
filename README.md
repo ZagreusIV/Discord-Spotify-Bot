@@ -8,7 +8,8 @@ A very simple discord bot that lets people upvote or downvote spotify songs and 
 
 You are free to use this code as you wish, but please remember to replace the bot token and the spotify client id and secret with your own in the config.json file.
 
-You will also need to install the discord and spotipy libraries using pip
+You will also need to install the discord and spotipy libraries using pip.
+
 You can install them by running the following commands in your terminal:
 ```bat
 pip install discord
